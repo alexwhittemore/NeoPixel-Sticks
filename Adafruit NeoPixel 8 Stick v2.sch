@@ -4542,16 +4542,16 @@ Source: AVX .. aphvc.pdf</description>
 <part name="SUPPLY16" library="supply2" deviceset="GND" device=""/>
 <part name="P+10" library="supply1" deviceset="+5V" device=""/>
 <part name="SUPPLY17" library="supply2" deviceset="GND" device=""/>
-<part name="FID1" library="microbuilder" deviceset="FIDUCIAL" device="&quot;&quot;" override_package3d_urn="urn:adsk.eagle:package:29314292/2" override_package_urn="urn:adsk.eagle:footprint:29314293/1"/>
-<part name="FID3" library="microbuilder" deviceset="FIDUCIAL" device="&quot;&quot;" override_package3d_urn="urn:adsk.eagle:package:29314297/2" override_package_urn="urn:adsk.eagle:footprint:29314298/1"/>
+<part name="FID1" library="microbuilder" deviceset="FIDUCIAL" device="&quot;&quot;" override_package3d_urn="urn:adsk.eagle:package:29314589/2" override_package_urn="urn:adsk.eagle:footprint:29314590/1"/>
+<part name="FID3" library="microbuilder" deviceset="FIDUCIAL" device="&quot;&quot;" override_package3d_urn="urn:adsk.eagle:package:29314591/2" override_package_urn="urn:adsk.eagle:footprint:29314592/1"/>
 <part name="P+11" library="supply1" deviceset="+5V" device=""/>
 <part name="P+1" library="supply1" deviceset="+5V" device=""/>
 <part name="CN1" library="adafruit" deviceset="1X4" device="SMT" override_package3d_urn="urn:adsk.eagle:package:29314300/2" override_package_urn="urn:adsk.eagle:footprint:29314301/1" value="1X4SMT"/>
 <part name="CN2" library="adafruit" deviceset="1X4" device="SMT" override_package3d_urn="urn:adsk.eagle:package:29314302/2" override_package_urn="urn:adsk.eagle:footprint:29314303/1" value="1X4SMT"/>
 <part name="SUPPLY1" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="supply2" deviceset="GND" device=""/>
-<part name="U$2" library="microbuilder" deviceset="MOUNTINGHOLE" device="2.0" override_package3d_urn="urn:adsk.eagle:package:29314256/2" override_package_urn="urn:adsk.eagle:footprint:29314259/1"/>
-<part name="U$3" library="microbuilder" deviceset="MOUNTINGHOLE" device="2.0" override_package3d_urn="urn:adsk.eagle:package:29314256/2" override_package_urn="urn:adsk.eagle:footprint:29314259/1"/>
+<part name="U$2" library="microbuilder" deviceset="MOUNTINGHOLE" device="2.0" override_package3d_urn="urn:adsk.eagle:package:29314585/2" override_package_urn="urn:adsk.eagle:footprint:29314586/1"/>
+<part name="U$3" library="microbuilder" deviceset="MOUNTINGHOLE" device="2.0" override_package3d_urn="urn:adsk.eagle:package:29314587/2" override_package_urn="urn:adsk.eagle:footprint:29314588/1"/>
 <part name="R1" library="microbuilder" deviceset="RESISTOR" device="_0805MP" override_package3d_urn="urn:adsk.eagle:package:29314283/2" override_package_urn="urn:adsk.eagle:footprint:29314284/1" value="470 OHM,"/>
 </parts>
 <sheets>
