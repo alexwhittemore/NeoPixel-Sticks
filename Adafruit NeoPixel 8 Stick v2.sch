@@ -9,20 +9,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -31,8 +31,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -40,17 +40,17 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -4507,52 +4507,52 @@ Source: AVX .. aphvc.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="LED1" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" value="WS2812B5050-NARROW"/>
-<part name="LED2" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" value="WS2812B5050-NARROW"/>
-<part name="LED3" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" value="WS2812B5050-NARROW"/>
-<part name="LED4" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" value="WS2812B5050-NARROW"/>
-<part name="LED5" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" value="WS2812B5050-NARROW"/>
-<part name="LED6" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" value="WS2812B5050-NARROW"/>
-<part name="LED7" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" value="WS2812B5050-NARROW"/>
-<part name="LED8" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" value="WS2812B5050-NARROW"/>
+<part name="LED1" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" override_package3d_urn="urn:adsk.eagle:package:29313919/2" override_package_urn="urn:adsk.eagle:footprint:29313920/1" value="WS2812B5050-NARROW"/>
+<part name="LED2" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" override_package3d_urn="urn:adsk.eagle:package:29313919/2" override_package_urn="urn:adsk.eagle:footprint:29313920/1" value="WS2812B5050-NARROW"/>
+<part name="LED3" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" override_package3d_urn="urn:adsk.eagle:package:29313919/2" override_package_urn="urn:adsk.eagle:footprint:29313920/1" value="WS2812B5050-NARROW"/>
+<part name="LED4" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" override_package3d_urn="urn:adsk.eagle:package:29313919/2" override_package_urn="urn:adsk.eagle:footprint:29313920/1" value="WS2812B5050-NARROW"/>
+<part name="LED5" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" override_package3d_urn="urn:adsk.eagle:package:29313919/2" override_package_urn="urn:adsk.eagle:footprint:29313920/1" value="WS2812B5050-NARROW"/>
+<part name="LED6" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" override_package3d_urn="urn:adsk.eagle:package:29313919/2" override_package_urn="urn:adsk.eagle:footprint:29313920/1" value="WS2812B5050-NARROW"/>
+<part name="LED7" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" override_package3d_urn="urn:adsk.eagle:package:29313919/2" override_package_urn="urn:adsk.eagle:footprint:29313920/1" value="WS2812B5050-NARROW"/>
+<part name="LED8" library="microbuilder" deviceset="WS2812B5050" device="-NARROW" override_package3d_urn="urn:adsk.eagle:package:29313919/2" override_package_urn="urn:adsk.eagle:footprint:29313920/1" value="WS2812B5050-NARROW"/>
 <part name="SUPPLY3" library="supply2" deviceset="GND" device=""/>
 <part name="P+2" library="supply1" deviceset="+5V" device=""/>
 <part name="SUPPLY7" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY9" library="supply2" deviceset="GND" device=""/>
-<part name="C1" library="rcl" deviceset="C-US" device="C0805K"/>
+<part name="C1" library="rcl" deviceset="C-US" device="C0805K" override_package3d_urn="urn:adsk.eagle:package:29314271/2" override_package_urn="urn:adsk.eagle:footprint:29314275/1"/>
 <part name="P+3" library="supply1" deviceset="+5V" device=""/>
 <part name="SUPPLY10" library="supply2" deviceset="GND" device=""/>
-<part name="C2" library="rcl" deviceset="C-US" device="C0805K"/>
+<part name="C2" library="rcl" deviceset="C-US" device="C0805K" override_package3d_urn="urn:adsk.eagle:package:29314271/2" override_package_urn="urn:adsk.eagle:footprint:29314275/1"/>
 <part name="P+4" library="supply1" deviceset="+5V" device=""/>
 <part name="SUPPLY11" library="supply2" deviceset="GND" device=""/>
-<part name="C3" library="rcl" deviceset="C-US" device="C0805K"/>
+<part name="C3" library="rcl" deviceset="C-US" device="C0805K" override_package3d_urn="urn:adsk.eagle:package:29314271/2" override_package_urn="urn:adsk.eagle:footprint:29314275/1"/>
 <part name="P+5" library="supply1" deviceset="+5V" device=""/>
 <part name="SUPPLY12" library="supply2" deviceset="GND" device=""/>
-<part name="C4" library="rcl" deviceset="C-US" device="C0805K"/>
+<part name="C4" library="rcl" deviceset="C-US" device="C0805K" override_package3d_urn="urn:adsk.eagle:package:29314271/2" override_package_urn="urn:adsk.eagle:footprint:29314275/1"/>
 <part name="P+6" library="supply1" deviceset="+5V" device=""/>
 <part name="SUPPLY13" library="supply2" deviceset="GND" device=""/>
-<part name="C5" library="rcl" deviceset="C-US" device="C0805K"/>
+<part name="C5" library="rcl" deviceset="C-US" device="C0805K" override_package3d_urn="urn:adsk.eagle:package:29314271/2" override_package_urn="urn:adsk.eagle:footprint:29314275/1"/>
 <part name="P+7" library="supply1" deviceset="+5V" device=""/>
 <part name="SUPPLY14" library="supply2" deviceset="GND" device=""/>
-<part name="C6" library="rcl" deviceset="C-US" device="C0805K"/>
+<part name="C6" library="rcl" deviceset="C-US" device="C0805K" override_package3d_urn="urn:adsk.eagle:package:29314271/2" override_package_urn="urn:adsk.eagle:footprint:29314275/1"/>
 <part name="P+8" library="supply1" deviceset="+5V" device=""/>
 <part name="SUPPLY15" library="supply2" deviceset="GND" device=""/>
-<part name="C7" library="rcl" deviceset="C-US" device="C0805K"/>
+<part name="C7" library="rcl" deviceset="C-US" device="C0805K" override_package3d_urn="urn:adsk.eagle:package:29314271/2" override_package_urn="urn:adsk.eagle:footprint:29314275/1"/>
 <part name="P+9" library="supply1" deviceset="+5V" device=""/>
 <part name="SUPPLY16" library="supply2" deviceset="GND" device=""/>
 <part name="P+10" library="supply1" deviceset="+5V" device=""/>
 <part name="SUPPLY17" library="supply2" deviceset="GND" device=""/>
-<part name="FID1" library="microbuilder" deviceset="FIDUCIAL" device="&quot;&quot;"/>
-<part name="FID3" library="microbuilder" deviceset="FIDUCIAL" device="&quot;&quot;"/>
+<part name="FID1" library="microbuilder" deviceset="FIDUCIAL" device="&quot;&quot;" override_package3d_urn="urn:adsk.eagle:package:29314292/2" override_package_urn="urn:adsk.eagle:footprint:29314293/1"/>
+<part name="FID3" library="microbuilder" deviceset="FIDUCIAL" device="&quot;&quot;" override_package3d_urn="urn:adsk.eagle:package:29314297/2" override_package_urn="urn:adsk.eagle:footprint:29314298/1"/>
 <part name="P+11" library="supply1" deviceset="+5V" device=""/>
 <part name="P+1" library="supply1" deviceset="+5V" device=""/>
-<part name="CN1" library="adafruit" deviceset="1X4" device="SMT" value="1X4SMT"/>
-<part name="CN2" library="adafruit" deviceset="1X4" device="SMT" value="1X4SMT"/>
+<part name="CN1" library="adafruit" deviceset="1X4" device="SMT" override_package3d_urn="urn:adsk.eagle:package:29314300/2" override_package_urn="urn:adsk.eagle:footprint:29314301/1" value="1X4SMT"/>
+<part name="CN2" library="adafruit" deviceset="1X4" device="SMT" override_package3d_urn="urn:adsk.eagle:package:29314302/2" override_package_urn="urn:adsk.eagle:footprint:29314303/1" value="1X4SMT"/>
 <part name="SUPPLY1" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="supply2" deviceset="GND" device=""/>
-<part name="U$2" library="microbuilder" deviceset="MOUNTINGHOLE" device="2.0"/>
-<part name="U$3" library="microbuilder" deviceset="MOUNTINGHOLE" device="2.0"/>
-<part name="R1" library="microbuilder" deviceset="RESISTOR" device="_0805MP" value="470 OHM,"/>
+<part name="U$2" library="microbuilder" deviceset="MOUNTINGHOLE" device="2.0" override_package3d_urn="urn:adsk.eagle:package:29314256/2" override_package_urn="urn:adsk.eagle:footprint:29314259/1"/>
+<part name="U$3" library="microbuilder" deviceset="MOUNTINGHOLE" device="2.0" override_package3d_urn="urn:adsk.eagle:package:29314256/2" override_package_urn="urn:adsk.eagle:footprint:29314259/1"/>
+<part name="R1" library="microbuilder" deviceset="RESISTOR" device="_0805MP" override_package3d_urn="urn:adsk.eagle:package:29314283/2" override_package_urn="urn:adsk.eagle:footprint:29314284/1" value="470 OHM,"/>
 </parts>
 <sheets>
 <sheet>
@@ -4916,4 +4916,16 @@ Source: AVX .. aphvc.pdf</description>
 </errors>
 </schematic>
 </drawing>
+<compatibility>
+<note version="8.3" severity="warning">
+Since Version 8.3, EAGLE supports the association of 3D packages
+with devices in libraries, schematics, and board files. Those 3D
+packages will not be understood (or retained) with this version.
+</note>
+<note version="9.4" severity="warning">
+Since Version 9.4, EAGLE supports the overriding of 3D packages
+in schematics and board files. Those overridden 3d packages
+will not be understood (or retained) with this version.
+</note>
+</compatibility>
 </eagle>
